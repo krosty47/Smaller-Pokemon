@@ -23,6 +23,7 @@ export default () => {
     setIds(getOptionsForVote());
   };
 
+
   return (
     <div className="h-screen w-screen flex flex-col justify-center align-center items-center">
       <div className="text-2x1 text-center">Which Pokemón is Smaller?</div>
